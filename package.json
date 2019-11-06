@@ -10,7 +10,8 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "meteor-node-stubs": "^0.4.1",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vuetify": "^2.1.9"
   },
   "meteor": {
     "mainModule": {

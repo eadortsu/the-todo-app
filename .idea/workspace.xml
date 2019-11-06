@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cc03780-e00a-4c3a-9777-80d9bdb268cb" name="Default Changelist" comment="" />
+    <list default="true" id="7cc03780-e00a-4c3a-9777-80d9bdb268cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/14adff4638c3dcd52110903c1b79c0cbcc17a104.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +21,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TC85uYAdFyAY2i7iZv28xxav1s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -27,6 +39,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572952536786</updated>
       <workItem from="1572952539926" duration="2312000" />
+      <workItem from="1573035738256" duration="2360000" />
     </task>
     <servers />
   </component>
@@ -62,10 +77,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
